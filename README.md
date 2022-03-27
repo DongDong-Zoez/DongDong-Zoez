@@ -25,9 +25,9 @@
 
 ---
 
-[![DongDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongDong-Zoez&theme=radical)]
+![DongDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongDong-Zoez&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongDong-Zoez&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongDong-Zoez&layout=compact)
 
 [website]: None
 [youtube]: https://www.youtube.com/channel/UCfkb5NaH9lMrItPA7ArqQVQ
