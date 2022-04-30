@@ -5,7 +5,7 @@
 - 🌐 Check out my personal [website][website]
 - 📈 I’m very passion on data analysis competition and currently learning data analysis
 - 👯 Feel free to collaborate with me, I would love to contact you in English or Mandarin
-- 👨‍🔬 My profession is Computer Vision, Data analysis, Image processing, Spatial statistics
+- 👨‍🔬 My profession are Computer Vision, Data analysis, Image processing, Spatial statistics
 - 🎹 I love to play piano and cover music in piano
 - ✉️ 2lbry5230100@gmail.com (Feel free to connect with me)
 
