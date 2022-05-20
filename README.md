@@ -2,7 +2,7 @@
 
 ## About me 👀
 
-- 🌐 Check out my personal [website][website]
+- 🌐 Check out my personal [website](https://dongdong-zoez.github.io/)
 - 📈 I’m very passion on data analysis competition and currently learning data analysis
 - 👯 Feel free to collaborate with me, I would love to contact you in English or Mandarin
 - 👨‍🔬 My profession are Computer Vision, Data analysis, Image processing, Spatial statistics
