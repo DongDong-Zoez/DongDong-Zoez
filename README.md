@@ -13,7 +13,7 @@
 
 - 🔬 Research Program for College Students of the Taiwan Ministry of Science and Technology
 - 📦 The author of HCV package [HCV]
-- 🔡 Chinese HandWritten Recognition [AI-FREE-Team](https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset)
+<!-- - 🔡 Chinese HandWritten Recognition [AI-FREE-Team](https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset) -->
 
 ### Connect with me: 💬
 
