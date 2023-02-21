@@ -1,4 +1,4 @@
-# Hi, I'm DongDong, a Statistician in Taiwan 👨‍🎓
+# Hi, I'm DongDong, a Developer 👨‍🎓
 
 ## About me 👀
 
