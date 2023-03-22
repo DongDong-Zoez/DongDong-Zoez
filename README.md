@@ -31,7 +31,6 @@
 
 ![DongDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongDong-Zoez&theme=radical)
 
----
 ## Languages and Tools 🔨
 
 <div>
