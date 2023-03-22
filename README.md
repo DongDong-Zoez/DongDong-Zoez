@@ -2,7 +2,7 @@
 
 ## About me 👀
 
-- 🌐 Check out my personal [website](https://dongdong-zoez.github.io/)
+- 🌐 Check out my personal [website]() [updating]
 - 📈 I’m very passion on data analysis competition and currently learning data analysis
 - 👯 Feel free to collaborate with me, I would love to contact you in English or Mandarin
 - 👨‍🔬 My profession are Computer Vision, Data analysis, Image processing, Spatial statistics
@@ -13,7 +13,6 @@
 
 - 🔬 Research Program for College Students of the Taiwan Ministry of Science and Technology
 - 📦 The author of HCV package [HCV]
-<!-- - 🔡 Chinese HandWritten Recognition [AI-FREE-Team](https://github.com/AI-FREE-Team/Traditional-Chinese-Handwriting-Dataset) -->
 
 ### Connect with me: 💬
 
